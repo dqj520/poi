@@ -14,6 +14,7 @@ public class PoiApplication {
         System.out.println("你太美");
         System.out.println("搞基吗");
         System.out.println("这个我喜欢");
+        System.out.println("怎能一个爽字了得");
     }
 
 }
