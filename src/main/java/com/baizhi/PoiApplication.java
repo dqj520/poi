@@ -12,6 +12,7 @@ public class PoiApplication {
         System.out.println("123");
         System.out.println("哈哈");
         System.out.println("你太美");
+        System.out.println("搞基吗");
     }
 
 }
